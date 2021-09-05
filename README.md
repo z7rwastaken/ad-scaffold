@@ -76,7 +76,7 @@ Andreww z7rwastaken - @andreww#1246 at [Discord](https://discord.gg//) - andreww
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/z7rwastaken/ad-scaffold.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/z7rwastaken/ad-scaffold
+[license-shield]: https://img.shields.io/github/license/z7rwastaken/ad-scaffold.svg?style=for-the-badge
+[license-url]: https://github.com/z7rwastaken/ad-scaffold/blob/main/LICENSE
